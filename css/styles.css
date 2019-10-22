@@ -1,0 +1,79 @@
+body {
+  text-align: center;
+}
+
+#appear {
+  display: none;
+  }
+#appear1 {
+  display: none;
+}
+#appear2 {
+  display: none;
+  }
+#appear3 {
+  display: none;
+}
+#appear4 {
+  display: none;
+  }
+#appear5 {
+  display: none;
+}
+#appear6 {
+  display: none;
+  }
+#appear7 {
+  display: none;
+}
+#appear8 {
+  display: none;
+  }
+#appear9 {
+  display: none;
+}
+#appear10 {
+  display: none;
+  }
+#appear11 {
+  display: none;
+}
+
+#appear12 {
+  display: none;
+  }
+#appear13 {
+  display: none;
+}
+#appear14 {
+  display: none;
+  }
+#appear15 {
+  display: none;
+}
+
+#appear16 {
+  display: none;
+  }
+#appear17 {
+  display: none;
+}
+#appear18 {
+  display: none;
+  }
+#appear19 {
+  display: none;
+}   
+
+
+
+  .clickable:hover {
+    color: red;
+    cursor: pointer;
+
+  }
+
+  .clickable {
+    text-decoration: underline;
+
+  }
